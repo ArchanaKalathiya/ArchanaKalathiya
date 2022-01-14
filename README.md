@@ -31,7 +31,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archanakalathiya&" alt="archanakalathiya" /></p>
 <br>
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=archanakalathiya&show_icons=true&locale=en" alt="archanakalathiya" />&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=archanakalathiya&show_icons=true&locale=en&layout=compact" alt="archanakalathiya" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=archanakalathiya&show_icons=true&locale=en" alt="archanakalathiya" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=archanakalathiya&show_icons=true&locale=en&layout=compact" alt="archanakalathiya" />
 </p>
 <br><br><br>
 <a href="https://github.com/ArchanaKalathiya/github-readme-activity-graph"><img alt="ArchanaKalathiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArchanaKalathiya&bg_color=fff&color=5BCDEC&line=5BCDEC&point=#FAE5D3&hide_border=true" /></a>
