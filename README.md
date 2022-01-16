@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/archana_kalathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="archana_kalathiya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/archana kalathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archana kalathiya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/archana-kalathiya-a50b8620b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archana-kalathiya-a50b8620b" height="30" width="40" /></a>
 <a href="https://instagram.com/__ak2310___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__ak2310___" height="30" width="40" /></a>
 </p>
 
