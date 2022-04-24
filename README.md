@@ -30,9 +30,7 @@
 <br>
  <h3 align="center">:trophy: MY GITHUB STATS </h3>
  <p align="center">
-  <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=archanakalathiya&" alt="archanakalathiya" />  &nbsp;
-  
-  <img  height="130" src="https://github-readme-stats.vercel.app/api?username=archanakalathiya&show_icons=true&locale=en" alt="archanakalathiya" /></p>
+  <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=archanakalathiya&" alt="archanakalathiya" />  &nbsp; <img  height="130" src="https://github-readme-stats.vercel.app/api?username=archanakalathiya&show_icons=true&locale=en" alt="archanakalathiya" /></p>
 <br><br>
 <a href="https://github.com/ArchanaKalathiya/github-readme-activity-graph"><img alt="ArchanaKalathiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArchanaKalathiya&bg_color=fff&color=5BCDEC&line=5BCDEC&point=#C48793&hide_border=true" /></a>
 
