@@ -33,7 +33,8 @@
   <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=Archanakalathiya" alt="archanakalathiya" />  &nbsp; <img  height="130" src="https://github-readme-stats.vercel.app/api/?username=ArchanaKalathiya" alt="archanakalathiya" /></p>
 <br><br>
 
-<a href="https://github.com/ArchanaKalathiya/github-readme-activity-graph"><img alt="ArchanaKalathiya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArchanaKalathiya&bg_color=fff&color=5BCDEC&line=5BCDEC&point=#C48793&hide_border=true" /></a>
+
+[![Archana's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArchanaKalathiya&bg_color=fff&color=5BCDEC&line=5BCDEC&point=#C48793&area=true&hide_border=true)](https://github.com/ArchanaKalathiya/github-readme-activity-graph)
 
 <br><br>
 
