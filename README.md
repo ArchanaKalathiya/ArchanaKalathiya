@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/FcdGrmyesWAZX7esoq/giphy.gif" width="120px"> I'm Archana 
+<h1 align="center"><img src="https://media.giphy.com/media/FcdGrmyesWAZX7esoq/giphy.gif" height="150px" width="120px"> I'm Archana 
 </h1>
 
 ![Archana Kalathiya](https://user-images.githubusercontent.com/94705812/149504872-bd35cb5b-0ac4-4778-a4b1-d64a4853c8e0.png)
