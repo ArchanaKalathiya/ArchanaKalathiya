@@ -5,6 +5,7 @@
 
 <h3 align="left">I'm a determined and creative engineering student who is passionate about building new strategies & creating technology to elevate people & buiding community. What I believe is if I can't do great things, I can do small things in a great way .</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archanakalathiya&label=Profile%20views&color=0e75b6&style=flat" alt="archanakalathiya" /> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
@@ -32,6 +33,8 @@
  <p align="center">
   <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=Archanakalathiya" alt="archanakalathiya" />  &nbsp; <img  height="130" src="https://github-readme-stats.vercel.app/api/?username=ArchanaKalathiya" alt="archanakalathiya" /></p>
 <br><br>
+
+
 
 
 [![Archana's github activity graph](https://activity-graph.herokuapp.com/graph?username=ArchanaKalathiya&bg_color=fff&color=5BCDEC&line=5BCDEC&point=#C48793&area=true&hide_border=true)](https://github.com/ArchanaKalathiya/github-readme-activity-graph)
