@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **archanakalathiya91@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZybB4sn_6ze3C8PH71wpmghrILQKRp2W/view)**
+<!-- - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1ZybB4sn_6ze3C8PH71wpmghrILQKRp2W/view)**  -->
 
 - ⚡ Fun fact **Enjoying family life and learning new things related to web design and competitive programming is what keeps me alive.**
 <br>
