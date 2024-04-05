@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archanakalathiya&label=Profile%20views&color=0e75b6&style=flat" alt="archanakalathiya" /> </p>
 
-- 🌱 I’m currently learning **to skill up**
+- 🌱 I am presently engaged in a dedicated pursuit of **skill enhancement**
 
 - 👨‍💻 All of my projects are available at **[My Devpost Profile](https://devpost.com/ArchanaKalathiya?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)**
 
