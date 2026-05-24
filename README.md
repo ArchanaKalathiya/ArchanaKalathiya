@@ -15,7 +15,7 @@
 ```yaml
 name: Archana Kalathiya
 role: DevOps Engineer @ Amdocs
-location: Mumbai, India
+location: Pune, India
 experience: 1.5+ Years
 
 currently_working_on:
