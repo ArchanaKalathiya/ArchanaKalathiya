@@ -15,7 +15,7 @@
 ```yaml
 name: Archana Kalathiya
 role: DevOps Engineer @ Amdocs
-location: Pune, India
+location: Mumbai, India
 experience: 1.5+ Years
 
 currently_working_on:
@@ -88,7 +88,7 @@ fun_fact: "I automate everything I do more than twice!"
 |---------|-------------|------------|
 | **Nexus Artifact Automation** | Automated Helm chart sync & validation with HTML reporting | `Bash` `Nexus API` `jq` |
 | **Environment Upgrades** | Led 22.09→24.03→24.12 upgrades across Prod environments | `Kubernetes` `Helm` `Jenkins` |
-| **MS360 Monitoring Stack** | Deployed Grafana, Prometheus & AlertManager | `Prometheus` `Grafana` |
+| **[Cloud Based DNA Cryptography](https://github.com/ArchanaKalathiya/Machine-Learning/tree/main/Deep-Learning)** | Secure data sharing using DNA cryptography & Image Steganography | `Python` `AWS` |
 
 ---
 
