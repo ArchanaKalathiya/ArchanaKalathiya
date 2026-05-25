@@ -15,7 +15,7 @@
 ```yaml
 name: Archana Kalathiya
 role: DevOps Engineer @ Amdocs
-location: Mumbai, India
+location: Pune, India
 experience: 1.5+ Years
 
 currently_working_on:
@@ -32,7 +32,7 @@ achievements:
   - 30-day on-site deployment at Telkomsel, Jakarta
   - Reduced manual effort by 80% through automation
 
-fun_fact: "I automate everything I do more than twice!"
+fun_fact: "My code works on my machine, and thanks to Docker, now it works everywhere! 🐳"
 ```
 
 ---
@@ -110,6 +110,14 @@ fun_fact: "I automate everything I do more than twice!"
 </p>
 
 <!-- If stats still don't load, you can deploy your own: https://github.com/anuraghazra/github-readme-stats -->
+
+---
+
+### ⚡ Fun Fact
+
+<p align="center">
+  <i>"My code works on my machine, and thanks to Docker, now it works everywhere! 🐳"</i>
+</p>
 
 ---
 
